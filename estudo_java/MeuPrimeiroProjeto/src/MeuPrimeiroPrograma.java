@@ -2,12 +2,12 @@ public class MeuPrimeiroPrograma
 {
     public static void main(String[] args)
     {
-
+        System.out.println( MinhaNovaFuncao("lucao") );
     }
 
     // Criando minha própria função
-    void MinhaNovaFuncao()
+    static String MinhaNovaFuncao(String nome)
     {
-        System.out.println("Hello World");
+        return "Hello World, bem vindo : " + nome;
     }
 }
