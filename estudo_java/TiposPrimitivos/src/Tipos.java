@@ -8,6 +8,9 @@ public class Tipos
         int x = 2;
         Integer y = 4;
 
+        // Forçando conversões com tipo
+        int z = (int) 3.24;
+
         System.out.println(x);
         System.out.println(y);
     }
