@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFlex</string>
+    <string name="step_2_to_3">Passo <b>2</b> de <b>3</b></string>
+    <string name="title">Crie sua conta</string>
+    <string name="go_continue">Continuar</string>
+    <string name="description">A Netflix é personalizada para você.\nUse seu email e crie uma senha para assistir à Netflix em qualquer aparelho quando você quiser.</string>
+    <string name="enter">Entrar</string>
+    <string name="create">Ajuda</string>
+</resources>

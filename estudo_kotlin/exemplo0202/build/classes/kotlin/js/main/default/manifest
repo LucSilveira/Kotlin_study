@@ -1,0 +1,8 @@
+abi_version=1.7.0
+builtins_platform=JS
+compiler_version=1.8.0
+depends=org.jetbrains.kotlin-wrappers\:kotlin-react org.jetbrains.kotlin-wrappers\:kotlin-react-dom org.jetbrains.kotlin-wrappers\:kotlin-emotion org.jetbrains.kotlin-wrappers\:kotlin-react-core org.jetbrains.kotlin-wrappers\:kotlin-browser org.jetbrains.kotlin-wrappers\:kotlin-csstype org.jetbrains.kotlin-wrappers\:kotlin-extensions kotlin
+ir_version=1.0.0
+jsOutputName=exemplo0202
+metadata_version=1.4.1
+unique_name=me.user\:exemplo0202
