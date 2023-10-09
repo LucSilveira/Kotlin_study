@@ -12,7 +12,7 @@ class DBConnect(context : Context) : SQLiteOpenHelper(context, "database.db", nu
 {
     val sql = arrayOf(
         "CREATE TABLE Pet(id INTEGER PRIMARY KEY AUTOINCREMENT, nome TEXT, raca TEXT, localizacao TEXT, idade INTEGER, tipoIdade TEXT)",
-        "INSERT INTO Pet(nome, raca, localizacao, idade, tipoIdade) VALUES ('teste', 'teste', 'teste', 1, 'teste')"
+        "INSERT INTO Pet(nome, raca, localizacao, idade, tipoIdade) VALUES ('teste02', 'teste', 'teste', 1, 'teste')"
     )
 
     override fun onCreate(db: SQLiteDatabase)

@@ -59,7 +59,7 @@
                         android:id="@+id/localPet"
                         android:fontFamily="@font/raleway_medium"
                         android:textColor="#5F5C6B"
-                        android:layout_gravity="start|end"
+                        android:layout_gravity="end"
                 />
 
                 <TextView
